@@ -1,2 +1,6 @@
-
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	Justify-content:center;
+	flex-wrap:wrap;
+}
